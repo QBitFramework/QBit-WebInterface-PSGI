@@ -1,10 +1,10 @@
 # QBit-WebInterface-PSGI
 
 ### nano ./lib/WebInterface.pm
-        < use base qw(QBit::WebInterface::PSGI Application); >
+        use base qw(QBit::WebInterface::PSGI Application);
 
 ### nano ./bin/starter.pl
-        < #!/usr/bin/perl 
+        #!/usr/bin/perl 
 
         use qbit; 
 
@@ -12,8 +12,8 @@
 
         use WebInterface;
 
-        WebInterface->new()->run; >
+        WebInterface->new()->run;
         
 ### start
 
-        < starman ./bin/starter.pl >
+        starman ./bin/starter.pl
