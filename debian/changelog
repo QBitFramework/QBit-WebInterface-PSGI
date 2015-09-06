@@ -1,5 +1,17 @@
 libqbit-webinterface-psgi-perl (0.001) raring; urgency=low
 
+  * deleted < and >
+
+  * how to use
+
+  * file for build
+
+  * QBit::WebInterface::PSGI
+
+ -- Sergei Svistunov <sergei-svistunov@yandex.ru>  Sun, 06 Sep 2015 22:51:07 +0400
+
+libqbit-webinterface-psgi-perl (0.001) raring; urgency=low
+
   * Initial commit
 
  -- igor Sverdlov <igor-sverdlov@mail.ru>  Sat Sep 5 20:13:35 2015 +0300
