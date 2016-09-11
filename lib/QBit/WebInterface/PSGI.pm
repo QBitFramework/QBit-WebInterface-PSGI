@@ -122,3 +122,33 @@ sub make_cmd {
 }
 
 TRUE;
+
+__END__
+
+=encoding utf8
+
+=head1 Name
+
+QBit::WebInterface::PSGI - Package for connect WebInterface with PSGI.
+
+=head1 GitHub
+
+https://github.com/QBitFramework/QBit-WebInterface-PSGI
+
+=head1 Install
+
+=over
+
+=item *
+
+cpanm QBit::WebInterface::PSGI
+
+=item *
+
+apt-get install libqbit-webinterface-psgi-perl (http://perlhub.ru/)
+
+=back
+
+For more information. please, see code.
+
+=cut
