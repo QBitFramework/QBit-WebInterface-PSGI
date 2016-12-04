@@ -1,3 +1,9 @@
+libqbit-webinterface-psgi-perl (0.003) raring; urgency=low
+
+  * fix request
+
+ -- Igor Sverdlov <igor-sverdlov@mail.ru>  Sun, 04 Dec 2016 22:50:55 +0300
+
 libqbit-webinterface-psgi-perl (0.002) raring; urgency=low
 
   * upload to cpan
