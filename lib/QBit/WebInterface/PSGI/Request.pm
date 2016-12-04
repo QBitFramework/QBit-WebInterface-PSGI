@@ -8,7 +8,8 @@ sub http_header {
     my ($self, $name) = @_;
 
     $name =~ s/-/_/g;
-    my $value = $self->{'ENV'}{'HTTP_' . uc($name)};
+    $name = uc($name);
+    my $value = $self->{'ENV'}{'HTTP_' . $name} // $self->{'ENV'}{$name};
 
     return defined($value) ? $value : '';
 }
