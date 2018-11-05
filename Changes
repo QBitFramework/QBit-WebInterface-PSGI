@@ -3,8 +3,32 @@ Changes from 2017-11-05 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.004 at 2018-11-05 18:59:55 +0000
+version 0.005 at 2018-11-05 19:19:52 +0000
 ------------------------------------------
+
+  Change: 64ef9a3d8e92636fca29531815a6fd90b873525f
+  Author: Igor <igor-sverdlov@mail.ru>
+  Date : 2018-11-05 22:19:12 +0000
+
+    Merge pull request #4 from Madskill/remove_unused_code
+
+    remove unused code 
+
+  Change: 37caf9ab77ef759bac6e575d0a710183469a3076
+  Author: Igor Sverdlov <igor-sverdlov@mail.ru>
+  Date : 2018-11-05 22:18:18 +0000
+
+    remove unused code 
+
+------------------------------------------
+version 0.004 at 2018-11-05 19:00:01 +0000
+------------------------------------------
+
+  Change: bdd5ef5479563018b047dbf407f24f4c895a382a
+  Author: Igor Sverdlov <igor-sverdlov@mail.ru>
+  Date : 2018-11-05 22:00:01 +0000
+
+    Version 0.004 
 
   Change: 91eedada5a599e4904031b6a327992ac40471373
   Author: Igor <igor-sverdlov@mail.ru>

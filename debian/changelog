@@ -1,3 +1,9 @@
+libqbit-webinterface-psgi-perl (0.005) raring; urgency=low
+
+  * remove unused code
+
+ -- Igor Sverdlov <igor-sverdlov@mail.ru>  Mon,  5 Nov 2018 22:19:52 +0300
+
 libqbit-webinterface-psgi-perl (0.004) raring; urgency=low
 
   * use subs from base

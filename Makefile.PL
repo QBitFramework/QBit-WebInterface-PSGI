@@ -18,11 +18,10 @@ my %WriteMakefileArgs = (
   "PREREQ_PM" => {
     "QBit::WebInterface" => 0,
     "QBit::WebInterface::Request" => 0,
-    "URI::Escape" => 0,
     "base" => 0,
     "qbit" => 0
   },
-  "VERSION" => "0.004",
+  "VERSION" => "0.005",
   "test" => {
     "TESTS" => ""
   }
@@ -32,7 +31,6 @@ my %WriteMakefileArgs = (
 my %FallbackPrereqs = (
   "QBit::WebInterface" => 0,
   "QBit::WebInterface::Request" => 0,
-  "URI::Escape" => 0,
   "base" => 0,
   "qbit" => 0
 );
