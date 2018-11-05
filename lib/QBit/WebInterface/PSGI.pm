@@ -6,8 +6,6 @@ use base qw(QBit::WebInterface);
 
 use QBit::WebInterface::PSGI::Request;
 
-use URI::Escape qw(uri_escape_utf8);
-
 sub run {
     my ($self) = @_;
 
